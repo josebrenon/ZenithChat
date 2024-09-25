@@ -47,7 +47,7 @@
    npm start
    ```
 5. **Acesse o Aplicativo:**
-   * Abra o navegador e acesse `http://localhost:3000`.
+   * Abra o navegador e acesse `http://localhost:5173`.
 
 **Contribuições:**
 
@@ -62,3 +62,7 @@
 * Obrigado a todos os colaboradores e à comunidade React.js.
 
 **Junte-se à comunidade Roomie e conecte-se com o mundo!**
+
+**Observação:**
+
+O comando `npm run dev` substitui `npm start` quando você usa Vite para iniciar o projeto.
