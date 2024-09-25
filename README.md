@@ -44,7 +44,7 @@
    * Crie um banco de dados e configure as credenciais de acesso no arquivo `.env`.
 4. **Inicie o Servidor:**
    ```bash
-   npm start
+   npm run dev
    ```
 5. **Acesse o Aplicativo:**
    * Abra o navegador e acesse `http://localhost:5173`.
@@ -65,4 +65,4 @@
 
 **Observação:**
 
-O comando `npm run dev` substitui `npm start` quando você usa Vite para iniciar o projeto.
+O comando `npm run dev` é usado para projetos criados com o Vite. Se você está usando outro gerenciador de pacotes, use o comando correspondente.
