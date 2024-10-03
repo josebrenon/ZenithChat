@@ -3,7 +3,7 @@ import React from "react";
 export default function App() {
   return (
     <>
-      <h1>Roomie</h1>
+      <h1>ZenithChat</h1>
       <hr />
     </>
   );
