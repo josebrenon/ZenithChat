@@ -1,6 +1,6 @@
-## Roomie: Seu Espaço para Conexões
+## ZenithChat: Conecte-se com o Mundo
 
-**Roomie** é um aplicativo de chat online construído com React.js, inspirado no icônico Bate-Papo UOL. Com foco em criar uma experiência de conversa amigável e intuitiva, o Roomie oferece uma plataforma completa para conectar pessoas, gerenciar comunidades e compartilhar ideias. 
+**ZenithChat** é um aplicativo de chat online construído com React.js, inspirado no icônico Bate-Papo UOL. Com foco em criar uma experiência de conversa amigável e intuitiva, o ZenithChat oferece uma plataforma completa para conectar pessoas, gerenciar comunidades e compartilhar ideias. 
 
 **Funcionalidades Principais:**
 
@@ -23,6 +23,7 @@
 **Tecnologia:**
 
 * **React.js:** Framework JavaScript para a interface do usuário.
+* **Vite:** Ferramenta de desenvolvimento de alta velocidade para React.
 * **WebSockets:** Comunicação em tempo real para o chat.
 * **Banco de Dados:** PostgreSQL ou MongoDB para armazenar dados de salas, usuários e mensagens.
 * **Autenticação:** JWT ou Session para controle de acesso à plataforma de gerenciamento.
@@ -33,11 +34,11 @@
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://github.com/josebrenon/roomie
+   git clone https://github.com/seu-usuario/zenithchat.git
    ```
 2. **Instale as Dependências:**
    ```bash
-   cd roomie
+   cd zenithchat
    npm install 
    ```
 3. **Configure o Banco de Dados:**
@@ -51,7 +52,7 @@
 
 **Contribuições:**
 
-* Sinta-se à vontade para contribuir com o Roomie, abrindo issues, enviando pull requests ou sugerindo novas funcionalidades.
+* Sinta-se à vontade para contribuir com o ZenithChat, abrindo issues, enviando pull requests ou sugerindo novas funcionalidades.
 
 **Licença:**
 
@@ -61,8 +62,8 @@
 
 * Obrigado a todos os colaboradores e à comunidade React.js.
 
-**Junte-se à comunidade Roomie e conecte-se com o mundo!**
+**Junte-se à comunidade ZenithChat e conecte-se com o mundo!**
 
 **Observação:**
 
-O comando `npm run dev` é usado para projetos criados com o Vite. Se você está usando outro gerenciador de pacotes, use o comando correspondente.
+O comando `npm run dev` substitui `npm start` quando você usa Vite para iniciar o projeto. 
